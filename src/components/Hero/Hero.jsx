@@ -11,8 +11,13 @@ export const Hero = () => {
         <p className={styles.description}>
 
         I'm a dedicated computer engineer with a specialization in software development, particularly skilled 
-        in Python and proficient in languages such as Javascript, C++, and Java. Aspiring to excel as a Software Engineer, 
-        Full-Stack Developer, or Python Developer, I'm passionate about exploring cutting-edge frameworks and technologies. 
+        in Python and proficient in languages such as Javascript, C++, and Java. 
+
+        <br />
+        <br />
+        
+        Aspiring to excel as a Software Engineer, Full-Stack Developer, or Python Developer, 
+        I'm passionate about exploring cutting-edge frameworks and technologies. 
 
         </p>
         <a href="mailto:marky.aeron@gmail.com" className={styles.contactBtn}>
