@@ -1,0 +1,10 @@
+[
+  {
+    "role": "Software Developer Intern",
+    "organisation": "Adept Solutions Inc.",
+    "startDate": "August, 2023",
+    "endDate": "November, 2023",
+    "experiences": ["Worked on Odoo ERP System Modules", "Made a Real-Estate Management System Module for clients", "Implemented User Access Rights and Security", "Made Customizable Views for modules"],
+    "imageSrc": "history/adept.png"
+  }
+]

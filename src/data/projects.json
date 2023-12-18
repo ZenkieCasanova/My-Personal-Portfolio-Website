@@ -1,0 +1,50 @@
+[
+  {
+    "title": "AutoMax: A Car Market Website",
+    "imageSrc": "projects/project1.png",
+    "description": "This is a project made to showcase my skills using Django and Bootstrap learned through courses",
+    "skills": ["Django", "Python", "Bootstrap", "JQuery", "HTML", "CSS"],
+    "demo": "https://markyaeron.pythonanywhere.com/",
+    "source": "https://github.com/ZenkieCasanova/django-automax-website"
+  },
+  {
+    "title": "Real Estate Management Module",
+    "imageSrc": "projects/project2.png",
+    "description": "This is a project made during internship developed by using Odoo ERP System",
+    "skills": ["Odoo", "Python", "PostgreSQL", "XML","Javascript", "Docker"],
+    "demo": "https://docs.google.com/document/d/11CRwM7VhdvTcpSE3XE37cTFUVN6ry0mU/edit?usp=sharing&ouid=113679607569729391558&rtpof=true&sd=true",
+    "source": "https://github.com/ZenkieCasanova/Odoo-Real-Estate-Module"
+  },
+  {
+    "title": "My Personal Portfolio Website",
+    "imageSrc": "projects/project3.png",
+    "description": "This is a project made to showcase my skills in React.js by building my own portfolio website.",
+    "skills": ["ReactJS", "Javascript", "Figma", "HTML", "CSS"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/ZenkieCasanova/My-Personal-Portfolio-Website"
+  },
+  {
+    "title": "FoodCavernPH: A Food Ordering Website",
+    "imageSrc": "projects/project4.png",
+    "description": "A Food Ordering Web Application developed using Django learned through courses",
+    "skills": ["Python","Django", "Javascript", "HTML", "CSS"],
+    "demo": "https://github.com/ZenkieCasanova/FoodCavern",
+    "source": "https://github.com/ZenkieCasanova/FoodCavern"
+  },
+  {
+    "title": "Gender and Age Video Player",
+    "imageSrc": "projects/project5.png",
+    "description": "This is a CpE Elective 3 project developed using Python, CNN, Data Analysis and Machine Learning",
+    "skills": ["Python", "CNN", "Machine Learning"],
+    "demo": "https://github.com/ZenkieCasanova/G-AVideoplayer",
+    "source": "https://github.com/ZenkieCasanova/G-AVideoplayer"
+  },
+  {
+    "title": "Customer Complaint Classifier",
+    "imageSrc": "projects/project6.png",
+    "description": "This is a Customer Complaint Classifier App developed using Python, CNN, Data Analysis and Machine Learning",
+    "skills": ["Python", "CNN", "Machine Learning"],
+    "demo": "https://github.com/ZenkieCasanova/ComplaintClassify",
+    "source": "https://github.com/ZenkieCasanova/ComplaintClassify"
+  }
+]
