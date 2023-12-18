@@ -6,7 +6,7 @@ Welcome to my personal portfolio website! This project was developed using React
 
 ## Demo
 
-[CLICK TO TRY DEMO](http://markyaeron.pythonanywhere.com)
+[CLICK TO TRY DEMO](https://thriving-twilight-00cab0.netlify.app/)
 
 
 
